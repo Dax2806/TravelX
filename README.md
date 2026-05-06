@@ -8,6 +8,8 @@ https://dax2806.github.io/TravelX/
 
 ## Preview
 
+![Preview](./preview.png)
+
 ## Key Features
 
 Easy Navigation Across Pages: The website includes fully designed pages for Home, Destinations, Packages, Benefits, and Reviews. It is fully responsive, meaning it automatically adjusts to look great on any screen.
