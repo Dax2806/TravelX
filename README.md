@@ -8,7 +8,7 @@ https://dax2806.github.io/TravelX/
 
 ## Preview
 
-![Preview](./preview.png)
+![Preview](./Preview.png)
 
 ## Key Features
 
