@@ -1,32 +1,65 @@
-## TravelX
+# ✈️ TravelX | Modern Travel Agency Platform
 
-Domain: Frontend Web Development
+<div align="center">
+  <h3>Discover and Book Your Next Great Adventure.</h3>
+  <p>A modern, responsive multi-page travel agency frontend platform designed for a seamless booking experience.</p>
+  <p>
+    <a href="https://dax2806.github.io/TravelX/" target="_blank"><strong>View Live Demo ↗</strong></a>
+  </p>
+</div>
 
-## Live Demo
+---
 
-https://dax2806.github.io/TravelX/
+## 📖 Overview
 
-## Preview
+**TravelX** is a visually stunning frontend application tailored for the travel and tourism industry. It offers a smooth, multi-page layout designed to help users discover destinations, browse vacation packages, and seamlessly interact with booking interfaces. The project emphasizes responsive design and highly engaging UI/UX.
 
-![Preview](./Preview.png)
+## ✨ Key Features
 
-## Key Features
+- **Responsive Multi-Page Layout:** Seamlessly navigates across Home, Destinations, Packages, and Contact pages, all perfectly responsive across mobile, tablet, and desktop devices.
+- **Engaging Hero Sections:** Captivating banner areas with high-quality imagery and clear calls-to-action (CTAs).
+- **Interactive Destination Cards:** Beautifully designed grid layouts showcasing travel destinations with hover effects.
+- **Modern Typography & Spacing:** Utilizes a clean, readable typographic hierarchy to enhance content consumption.
+- **Cross-Browser Compatible:** Optimized for performance and layout consistency across all major modern web browsers.
 
-Easy Navigation Across Pages: The website includes fully designed pages for Home, Destinations, Packages, Benefits, and Reviews. It is fully responsive, meaning it automatically adjusts to look great on any screen.
-(Example: If a user is on a mobile phone, they can use the mobile-optimized toggle menu to quickly jump from the 'Home' page to 'Destinations' with one tap.)
+---
 
-Compare Travel Packages: A side-by-side comparison tool that helps users choose the best tier for their needs based on flights, accommodation, and coverage.
-(Example: A user can easily look at the Basic, Premium, and Luxury packages next to each other to see which one includes a 5-star hotel versus a standard hotel.)
+## 🛠️ Tech Stack
 
-Build Trust & Collect Leads: Includes a newsletter signup form and a dynamic testimonial section.
-(Example: New visitors can read 5-star reviews from past travelers to feel confident before booking, and then sign up for the newsletter to get travel tips.)
+This project is built using foundational web technologies with a focus on modern CSS layouts:
 
-## Technology
+- **Structure:** Semantic HTML5
+- **Styling:** CSS3 (Flexbox, CSS Grid, Custom Properties/Variables)
+- **Interactions:** Vanilla JavaScript
+- **Hosting:** GitHub Pages
 
-This project was built using modern web development tools to ensure it is fast and looks great:
+---
 
-- HTML5 & CSS3: For the core structure and styling of the website.
+## 🚀 Local Development
 
-- Bootstrap 5.3.6: A grid system used to ensure the website is fully responsive and looks good on phones, tablets, and desktop computers.
+To run TravelX locally on your machine:
 
-- FontAwesome 6.7.2: For adding professional, high-quality vector icons. (Example: Using small star icons for the review section or a small airplane icon next to flight details).
+### 1. Clone the repository
+```bash
+git clone https://github.com/Dax2806/TravelX.git
+cd TravelX
+```
+
+### 2. View the Project
+Since this is a static frontend application, you can simply open the `index.html` file in your preferred web browser:
+```bash
+# On macOS
+open index.html
+
+# On Windows
+start index.html
+
+# Alternatively, use a local server like Live Server (VS Code) or Python's HTTP server
+python -m http.server 8000
+```
+
+---
+
+<div align="center">
+  <i>Designed and developed by <a href="https://github.com/Dax2806">Daksh Patadia</a></i>
+</div>
